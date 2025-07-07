@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn React mode
           Learn React 코드 수정
+          모드 체리픽
         </a>
       </header>
     </div>
