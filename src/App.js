@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 코드 수정
+          Learn React 코드 수정 css 수정
         </a>
       </header>
     </div>
