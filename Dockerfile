@@ -1,4 +1,3 @@
-Dockerfile
 # 1단계: 빌드 단계
 FROM node:18-alpine AS builder
 
